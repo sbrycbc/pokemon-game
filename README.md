@@ -5,3 +5,5 @@ I completed the project by extending the original mission requirements to make i
 
 ## Installation
 
+To use this game, you will need to have [Node.js](https://nodejs.org/en) and [npm](https://www.npmjs.com/) installed on your machine. You can download and install both from their official websites.
+
