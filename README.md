@@ -12,7 +12,7 @@ To use this game, you will need to have [Node.js](https://nodejs.org/en) and [np
 1. Type node pokemon.js in the terminal to start a pokemon fight.
 2. You will see two signs showing the Pokemon and their skills. Each player can choose one when asked. Just type the name into the terminal.
 
-![logo](./images/tabela.png)
+![logo] (./images/tabela.png)
 
 3. When you've picked your pokemon, you'll see it's stats displayed.
 4. When its your turn to attack, simply type in the attack you want to use.
