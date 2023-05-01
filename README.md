@@ -12,17 +12,17 @@ To use this game, you will need to have [Node.js](https://nodejs.org/en) and [np
 1. Type node pokemon.js in the terminal to start a pokemon fight.
 2. You will see two signs showing the Pokemon and their skills. Each player can choose one when asked. Just type the name into the terminal.
 
-┌─────────┬──────────────┬───────────┬─────────┬──────┬───────┬──────────────────────┐
-│ (index) │ pokemonName  │ hitPoints │ defense │ mana │ level │        skills        │
-├─────────┼──────────────┼───────────┼─────────┼──────┼───────┼──────────────────────┤
-│    0    │  'Pikachu'   │    35     │   40    │  80  │   1   │ [ [Skill], [Skill] ] │
-│    1    │ 'Bulbasaur'  │    45     │   49    │ 105  │   1   │ [ [Skill], [Skill] ] │
-│    2    │ 'Charmandar' │    39     │   43    │  75  │   1   │ [ [Skill], [Skill] ] │
-│    3    │  'Squirtle'  │    44     │   20    │  65  │   1   │ [ [Skill], [Skill] ] │
-│    4    │ 'Jigglypuff' │    115    │   20    │  65  │   1   │ [ [Skill], [Skill] ] │
-│    5    │ 'Bellsprout' │    50     │   35    │  90  │   1   │ [ [Skill], [Skill] ] │
-│    6    │   'Mewtwo'   │    106    │    5    │  50  │   1   │ [ [Skill], [Skill] ] │
-└─────────┴──────────────┴───────────┴─────────┴──────┴───────┴──────────────────────┘
+ ┌─────────┬──────────────┬───────────┬─────────┬──────┬───────┬──────────────────────┐
+ │ (index) │ pokemonName  │ hitPoints │ defense │ mana │ level │        skills        │
+ ├─────────┼──────────────┼───────────┼─────────┼──────┼───────┼──────────────────────┤
+ │    0    │  'Pikachu'   │    35     │   40    │  80  │   1   │ [ [Skill], [Skill] ] │
+ │    1    │ 'Bulbasaur'  │    45     │   49    │ 105  │   1   │ [ [Skill], [Skill] ] │
+ │    2    │ 'Charmandar' │    39     │   43    │  75  │   1   │ [ [Skill], [Skill] ] │
+ │    3    │  'Squirtle'  │    44     │   20    │  65  │   1   │ [ [Skill], [Skill] ] │
+ │    4    │ 'Jigglypuff' │    115    │   20    │  65  │   1   │ [ [Skill], [Skill] ] │
+ │    5    │ 'Bellsprout' │    50     │   35    │  90  │   1   │ [ [Skill], [Skill] ] │
+ │    6    │   'Mewtwo'   │    106    │    5    │  50  │   1   │ [ [Skill], [Skill] ] │
+ └─────────┴──────────────┴───────────┴─────────┴──────┴───────┴──────────────────────┘
 
 ┌─────────┬────────────────────────────────┬────────────────────────────────────┐
 │ (index) │         skills                 |              skills                |      
